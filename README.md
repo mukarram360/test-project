@@ -5,7 +5,7 @@ Built with Create React App + Typescript + Web3 + Chakra-UI
 ## Instruction
 
 ```
-git clone https://github.com/RikaiSoft/test-project.git
+git clone https://github.com/VictorRamirezWorld/test-project.git
 cd test-project
 npm install
 npm run start
